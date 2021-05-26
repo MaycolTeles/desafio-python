@@ -1,5 +1,5 @@
 # Recrutamento - Estágio Desenvolvedor Python
-Olá desenvolvedor Python, pronto para participar do nosso processo de recrutamento?
+Para acessar o link do PROJECT.md, clique aqui
 
 ## Requisitos
 - Noções de programação
