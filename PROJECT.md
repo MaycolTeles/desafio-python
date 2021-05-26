@@ -6,9 +6,9 @@ Para executar o script, basta seguir os seguintes passos:
 
 ## Executar o script
  - Para executar o script, basta abrir o terminal na pasta onde está seu arquivo "csv_reader.py" e e executar o seguinte comando:
- '''$ python csv_reader.py '''
+ ```$ python csv_reader.py ```
  ou 
- '''$ python3 csv_reader.py ''', dependendo do seu ambiente.
+ ```$ python3 csv_reader.py ```, dependendo do seu ambiente.
 
  - Após isso, será solicitado que você entre com a cidade que deseja enviar a encomenda e qual o peso dela. Caso você digite uma cidade que não se encontra nas cidades cadastradas através do arquivo "transportadoras.csv" disponibilizado, o programa continuará solicitando pela entrada de uma cidade até que o nome da mesma seja válido.
 
